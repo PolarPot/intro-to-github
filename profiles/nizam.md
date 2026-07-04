@@ -6,4 +6,4 @@
 - **GitHub:** [@PolarPot](https://github.com/PolarPot)
 - **Fun fact:** [I can burp.]
 - **Currently learning:** Git & GitHub 🚀
-- **Yo:**Nani ga suki
+- **Yo:** Nani ga suki
